@@ -1,5 +1,7 @@
 # Blogs-comments
 
+Blogs: https://www.agmblogs.quest/
+
 Blog Comments Repository
 
 This repository is dedicated to hosting GitHub Discussions for comments on my blog.
